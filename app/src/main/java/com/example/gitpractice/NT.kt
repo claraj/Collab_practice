@@ -1,6 +1,6 @@
 fun main() {
 
-    val favColor = ""   // TODO fill this in
+    val favColor = "a fully-ripened-mango orange-yellow hue"
 
     println("My favorite color is $favColor")
 
